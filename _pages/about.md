@@ -11,5 +11,6 @@ I'm a senior undergraduate student from [School of Information Science and Techn
 
 I am very fortunate to be advised by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) of PLUS Lab from School of Information Science and Technology , ShanghaiTech University. 
 
+You can find my CV here [Chongyu Wang's Curriculum Vitae](../assets/CV.pdf)
 
 
