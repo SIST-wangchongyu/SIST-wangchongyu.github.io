@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chongyu Wang"
+title                    : "Chongyu Wang's Pesonal Homepage"
 title_separator          : "-"
 name                     : &name "Chongyu Wang"
 description              : &description "personal description"
