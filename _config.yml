@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chongyu Wang"
-  avatar           : "img.png"
+  avatar           : "images/img.png"
   bio              : "My research interest includes computer vision, human-object interaction detection, machine learning."
   location         : "Location"
   employer         :
