@@ -12,10 +12,9 @@ redirect_from:
 
 About Me
 ======
-I'm a Senior undergraduate student from Shanghaitech University. My research interest includes computer vision, human-object interaction detection, machine learning, and computational photography.
+I'm a Senior undergraduate student from ShanghaiTech University. My research interest includes computer vision, human-object interaction detection, machine learning.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Xuming He] of PLUS Lab from School of Information Science and Technology , ShanghaiTech University. 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 
